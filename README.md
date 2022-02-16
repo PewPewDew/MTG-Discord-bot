@@ -1,25 +1,25 @@
 # MTG-Discord-bot
-It's a discord bot that displays magic cards
+It's a Magic The Gathering themed discord bot
 
 # Project Title
 
-Simple overview of use/purpose.
+Discord Bot with Magic the gathering related commands.
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+Currently this program displays magic the gathering cards when requesting the card via name from the bot.  It'll display only based off of name right now
 
 ## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Windows 10
+- Python 3.10
+- Libraries (not sure which one but soon)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Download my program here at this link " BLANK "
+
+Modfications - You need you're own .env folder.  Use google to find out how to set up your discord bot.  I might add a how-to here or link to a known working one.
 
 ### Executing program
 
@@ -38,22 +38,26 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Noah's Handle name and Link
+My Handle name and Link
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Alpha 0.1 
+    - Initial release
+    - Contains lookup only
+
+## Project Plans
+- Need bot to respond if it's a blank command on the different arguements that could be added. In what order too
+    - Maybe like a .split command on commas and then list them? might help with the word search up too.
+- Add possible counter cards
+- Add rest of the data for the card such as version, if it's banned .etc
+- Add suggestions for synergy
+- Make a drafting set up? Might be too much for a bot.
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the PewPewDew? License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
